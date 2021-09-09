@@ -22,4 +22,5 @@ Premissas:
   
 ## PS: Valorizamos a criatividade no layout.
 
-Ao finalizar a programação publicar esse teste em seu github e nos encaminhar o link com as instruções de teste.
+# Entrega: 
+ * Disponibilizar um link do repositório no GitHub e encaminhar para developer@cd2.com.br
