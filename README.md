@@ -9,10 +9,6 @@
 
 <br>
 
-# PHPtest
-
-Teste para a vaga de PHP
-
 ## 💻 Resumo
 
 Repositório do projeto do teste de PHP, o projeto tem objetivo de procurar um endereço através do CEP.
