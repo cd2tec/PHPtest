@@ -1,26 +1,38 @@
+<h1 align="center">
+  :mortar_board: CEP :mortar_board:
+</h1>
+
+<p align="center">
+<a href="#-resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#telephone-contato">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
 # PHPtest
 
-Teste de seleção para vaga PHP
+Teste para a vaga de PHP
 
-## Faça um fork desse projeto e siga as intruções a seguir utilizando esse projeto.
+## 💻 Resumo
 
-Construir uma aplicação web para buscar endereço. Aplicação deve fazer uma chamada na API via cep : https://viacep.com.br/.
-Premissas:
+Repositório do projeto de um site que tem objetivo de procurar um endereço através do CEP.
 
-  ● Usar PHP 5.6 ou superior.
-  
-  ● Usar Bootstrap.
-  
-  ● JavaScript (Não usar framework).
-  
-  ● Retorno deve ser em xml.
-  
-  ● Salvar os dados em uma base e antes de uma nova consulta verificar se o cep já foi consultado, caso tenha sido, trazer    informação da base e não deve efetuar uma nova consulta.
-  
-  ● Tratar o erro. Dar um retorno amigável para usuário leigo.
-  
-  
-## PS: Valorizamos a criatividade no layout.
+Nesse projeto usei HTML, CSS, PHP, Javascript, Bootstrap e mysql.
 
-# Entrega: 
- * Disponibilizar um link do repositório no GitHub e encaminhar para developer@cd2.com.br
+O resultado final do site pode ser conferido clicando [aqui](https://rrodrigofranco.000webhostapp.com/).
+
+![Design preview for the ZipCode theme](./img/cep.png)
+
+Obs.: O banco de dados equivalente a esse projeto está no arquivo cep.zip.
+
+
+
+## :telephone: Contato
+
+Para mais trabalhos acesse meu [LinkedIn](https://www.linkedin.com/in/rodrigo-ribeiro-franco-862884127/) e outros repositórios aqui no GitHub. 
+
+Meu e-mail: francorodrigognr@yahoo.com.br
+
+Número de telefone: (31) 998755-5101
+
+
