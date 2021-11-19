@@ -16,13 +16,13 @@
         <form method="POST" action="index.php" class="row gy-2 gx-3 align-items-center">
             <div class="col-md-9">
                 <label for="cep" class="visually-hidden">CEP</label>
-                <input type="text" class="form-control" id="cep" name="cep" placeholder="Digite o CEP">
+                <input type="text" class="form-control" id="cep" name="cep" placeholder="Digite o CEP" maxlength="9">
             </div>
             <div class="col-md-3">
                 <input type="submit" id="pesquisar" class="btn btn-primary mb-3" value="Pesquisar">
             </div>
         </form>
-        <table class="table table-striped">
+        <!-- <table class="table table-striped">
             <thead>
                 <th>cep</th>
                 <th>logradouro</th>
@@ -40,7 +40,7 @@
                     <td></td>
                 </tr>
             </tbody>
-        </table>
+        </table> -->
     </div>
 
     <script type="text/javascript">
