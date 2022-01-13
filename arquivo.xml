@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlcep>
+  <cep>88060-000</cep>
+  <logradouro>Rodovia João Gualberto Soares</logradouro>
+  <complemento>de 4001/4002 a 16999/17000</complemento>
+  <bairro>São João do Rio Vermelho</bairro>
+  <localidade>Florianópolis</localidade>
+  <uf>SC</uf>
+  <ibge>4205407</ibge>
+  <gia></gia>
+  <ddd>48</ddd>
+  <siafi>8105</siafi>
+</xmlcep>

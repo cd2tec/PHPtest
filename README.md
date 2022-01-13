@@ -20,7 +20,3 @@ Premissas:
   ● Tratar o erro. Dar um retorno amigável para usuário leigo.
   
   
-## PS: Valorizamos a criatividade no layout.
-
-# Entrega: 
- * Disponibilizar um link do repositório no GitHub e encaminhar para developer@cd2.com.br
