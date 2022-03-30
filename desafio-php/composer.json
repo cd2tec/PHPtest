@@ -1,0 +1,8 @@
+{
+    "name": "desafio/c2tec",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
